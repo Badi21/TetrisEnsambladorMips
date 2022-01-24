@@ -2,10 +2,10 @@
 # -- Proyecto de Tetris Ensamblador -- 
 #-------------------------------------
 
-# ------- Autores ----------
-# - Badar Tagmouti Abdoune -
+# ------------ Autores ---------------
+# - Badar Tagmouti Abdoune (@badi_21)-
 # - Pablo Manresa Soler    -
-#---------------------------
+#-------------------------------------
         
 	.data	
 
